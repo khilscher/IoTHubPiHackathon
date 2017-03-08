@@ -6,11 +6,9 @@
 
 [Attendee Checklist - TODO](www.microsoft.com)
 
-Create IoT Hub
-
-  [Create a Preconfigured Solution](www.microsoft.com)
+[Create a Preconfigured Solution](www.microsoft.com)
 or
-  [Create an IoT Hub](www.microsoft.com)
+[Create an IoT Hub](www.microsoft.com)
 
 ## Afternoon
 
