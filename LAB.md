@@ -1,8 +1,8 @@
-### Lab
+# Lab
 
 ## Morning
 
-# Setup
+### Setup
 
 [Attendee Checklist - TODO](www.microsoft.com)
 
