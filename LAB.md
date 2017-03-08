@@ -4,7 +4,7 @@
 
 ### Setup
 
-[Attendee Checklist - TODO](www.microsoft.com)
+[Setup Checklist - TODO](www.microsoft.com)
 
 [Create a Preconfigured Solution](www.microsoft.com)
 or
