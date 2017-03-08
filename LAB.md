@@ -6,7 +6,11 @@
 
 [Attendee Checklist - TODO](www.microsoft.com)
 
-[Connect the Raspberry PI](www.microsoft.com)
+Create IoT Hub
+
+  [Create a Preconfigured Solution](www.microsoft.com)
+or
+  [Create an IoT Hub](www.microsoft.com)
 
 ## Afternoon
 
